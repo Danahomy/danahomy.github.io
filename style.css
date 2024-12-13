@@ -1,0 +1,19 @@
+header{
+    margin:50px;
+    padding:10px;
+    color:rgb(20, 153, 124);
+}
+
+body{
+    background-image:url("https://st2.depositphotos.com/3688227/6050/i/950/depositphotos_60501993-stock-photo-christmas-background-with-snowflakes-and.jpg");
+    background-repeat:no-repeat;
+    color:rgb(5, 46, 14);
+    text-align:center;
+}
+
+iframe {
+    width: 200px;
+    height: 200px;
+}
+
+
